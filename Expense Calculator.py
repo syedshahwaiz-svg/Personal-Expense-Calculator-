@@ -22,7 +22,7 @@ def set_budget():
 
 
 def add_expense():
-    """Collect details for a new transaction and store it in the history list."""
+    #Collect details for a new transaction and store it in the history list.
     print("\n--- Add New Expense ---")
 
     category = input("Enter category (e.g., Food, Transport, Books, Utilities): ").strip().title()
@@ -96,7 +96,7 @@ def show_summary():
 
 
 def view_all_expenses():
-    """Display all recorded expenses sequentially line by line."""
+    #Display all recorded expenses sequentially line by line.
     print("\n--- Transaction History ---")
 
     # Check if the list is empty before attempting to display transactions.
