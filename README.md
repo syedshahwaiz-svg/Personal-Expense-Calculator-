@@ -6,13 +6,13 @@
 
 ## 📌 Overview
 
-**Personal Expense Calculator** is an intuitive financial tracking tool designed to streamline your daily expense management. Whether you're managing personal household budgets or tracking operational costs for a small business, this tool ensures every expense—from micro-transactions to major bills—is accounted for, giving you total clarity over your financial health.
+**Personal Expense Calculator** is a financial tracking tool designed to streamline your daily expense management. Whether you're managing personal household budgets or tracking operational costs for a small business, this tool ensures every expense from **small transactions to major bill** is accounted for, giving you total awareness over your financial budget.
 
 ---
 
 ## ✨ Key Benefits
 
-- **🔄 Real-Time Clarity:** Keeps your financial status transparent and up-to-date.
+- **🔄 Real-Time Clarity:** Keeps your financial status transparent and uptodate.
 - **📊 Comprehensive Expense Tracking:** Calculates every expense, big or small, without missing a detail.
 - **💡 Smart Savings:** Helps you analyze spending habits and curb unnecessary expenses.
 - **⏱️ Time Saver:** Designed for speed and simplicity—ideal for individuals and busy small business owners.
@@ -45,3 +45,9 @@ cd Personal-Expense-Calculator
 
 # Run the application
 python main.py
+
+```
+---
+## 🛠️ Made by :
+- [ ] **Syed Shahwaiz Abbas Rizvi**  
+- [ ] **My Email:** 2619202@cedar.edu.pk
