@@ -38,7 +38,7 @@ We are continuously evolving! Key upcoming enhancements include:
 ### Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/Personal-Expense-Calculator.git](https://github.com/your-username/Personal-Expense-Calculator.git)
+git clone [https://github.com/syedshahwaiz-svg/Personal-Expense-Calculator-/blob/main/Expense%20Calculator.py)
 
 # Navigate into the project directory
 cd Personal-Expense-Calculator
