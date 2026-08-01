@@ -15,7 +15,7 @@
 - **🔄 Real-Time Clarity:** Keeps your financial status transparent and uptodate.
 - **📊 Comprehensive Expense Tracking:** Calculates every expense, big or small, without missing a detail.
 - **💡 Smart Savings:** Helps you analyze spending habits and curb unnecessary expenses.
-- **⏱️ Time Saver:** Designed for speed and simplicity—ideal for individuals and busy small business owners.
+- **⏱️ Time Saver:** Designed for speed and simplicity ideal for individuals and busy small business owners.
 
 ---
 
@@ -34,19 +34,6 @@ We are continuously evolving! Key upcoming enhancements include:
 
 ### Prerequisites
 - Python 3.8+ (or appropriate environment for your stack)
-
-### Installation
-```bash
-# Clone the repository
-git clone [https://github.com/syedshahwaiz-svg/Personal-Expense-Calculator-/blob/main/Expense%20Calculator.py)
-
-# Navigate into the project directory
-cd Personal-Expense-Calculator
-
-# Run the application
-python main.py
-
-```
 ---
 ## 🛠️ Made by :
 - [ ] **Syed Shahwaiz Abbas Rizvi**  
